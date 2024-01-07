@@ -1,0 +1,75 @@
+{
+  "basic_info": {
+    "name": "Daniel Kasem",
+    "titles": [
+      "Back-end Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/specture48",
+        "class": "fab fa-github"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": ".net core",
+        "class": "devicon-dotnetcore-plain colored",
+        "level": "95"
+      },
+      {
+        "name": "Socket Io",
+        "class": "devicon-socketio-plain",
+        "level": "95"
+      },
+      {
+        "name": "Laravel",
+        "class": "devicon-laravel-plain",
+        "level": "95"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "95"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Nestjs",
+        "class": "devicon-nestjs-plain",
+        "level": "60"
+      },
+      {
+        "name": "Postgres",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      }
+    ]
+  }
+}

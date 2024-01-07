@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Daniel Kasem. I have four years of web development experience, specializing in backend technologies. For three years, I excelled\nin PHP, working with the Laravel framework. In the last two years, I transitioned to Node.js, specializing in Express\nand Nest.js. Additionally, I've worked with .NET Core, contributing to diverse projects. Proficient in MySQL and\nPostgreSQL, my approach emphasizes project success, and I am committed to staying current with industry\ntrends.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Ordro",
+      "startDate": "2023",
+      "description": "a comprehensive solution\nencompassing promotions, shipping, and stock management functionalities. The platform is designed to\nstreamline business-to-business transactions, providing a seamless experience for users involved in buying and\nselling products.",
+      "images": [
+        "https://i.postimg.cc/mkmtXvdL/photo-2024-01-05-20-37-44.jpg",
+        "https://i.postimg.cc/sxYMYBWh/photo-2024-01-05-20-23-38.jpg",
+        "https://i.postimg.cc/j5zx9pjV/photo-2024-01-05-20-26-37.jpg",
+        "https://i.postimg.cc/mZXfrpMQ/Screenshot-from-2024-01-05-16-11-49.png"
+      ],
+      "url": "https://dev.ordro.app",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-express-original-wordmark colored",
+          "name": "expressjs"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        }
+      ]
+    },
+    {
+      "title": "Spantrek",
+      "startDate": "2023",
+      "description": "The platform boasted a rich set of features, including immersive 3D and 2D maps, real-\ntime reservation boards, visitor management, and dynamic digital signage.",
+      "images": [
+        "https://i.postimg.cc/Hx8Wwb3M/Screenshot-from-2024-01-05-16-02-25.png",
+        "https://i.postimg.cc/3JY7y0bT/Screenshot-from-2024-01-05-16-01-27.png",
+        "https://i.postimg.cc/cCK3w5Jv/Screenshot-from-2024-01-05-16-00-26.png"
+      ],
+      "url": "https://cloud.spantrek.com",
+      "technologies": [
+        {
+          "class": "devicon-nestjs-plain",
+          "name": "nestjs"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "MemoNas Chat App",
+      "startDate": "2020",
+      "description": "a dynamic platform enabling one-to-one and\ngroup chats, calls, video calls, and channels. Leveraged Node.js (Express), Socket.io, and Redis for real-time\ncommunication.",
+      "images": [
+        "https://i.postimg.cc/C14ZDpYM/photo-2024-01-05-18-19-30.jpg",
+        "https://i.postimg.cc/8PcFFYYD/photo-2024-01-05-18-19-29.jpg",
+        "https://i.postimg.cc/VLhJXRyt/photo-2024-01-05-18-19-26.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue"
+        },
+        {
+          "class": "devicon-express-original-wordmark colored",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-swift-plain",
+          "name": "Swift"
+        },
+        {
+          "class": "devicon-android-plain",
+          "name": "Android"
+        }
+      ]
+    },
+    {
+      "title": "StayOn",
+      "startDate": "2022",
+      "description": "The Stay On application is an application of electronic courses in an academic and high-level manner, for\n professors and lecturers known in their field. 1. courses management (videos,pdf files)\n2. teacher,course payments stats\n3. students mangement\n4. questions banks,quizes",
+      "images": [
+        "https://play-lh.googleusercontent.com/_E0qHMzDJD6z-69KXxUoALv2sLjgK_TgVxrG9FCDY-2nDewaWCyUU4wMorgBU6m4mgId=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/Olk5mDPQqetRsK5IGR8qpQVLCGSBjn2z5mDuRwoy1Ka7zLoE6N9Ovig47GYS1tUSISwj=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/bjd5LYx5bNSqDynvVkUrq7l1KFDfQE6eghtMLZcTNosfDsxVFjGvdVMFBr39TNG-R90M=w2560-h1440-rw"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=co.flexsol.stayon&hl=en_US&gl=US",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        }
+      ]
+    },
+    {
+      "title": "LPCenter",
+      "startDate": "2020",
+      "description": "",
+      "images": [
+        "https://i.postimg.cc/rFx5Ws7V/photo-2024-01-06-21-51-25.jpg"
+      ],
+      "url": "https://www.lpcentre.com",
+      "technologies": [
+        {
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        }
+      ]
+    },
+    {
+      "title": "Ha55a Exchange",
+      "startDate": "2022",
+      "description": "Spearheaded the development of a secure and efficient Iraqi money\n      exchange website using Laravel PHP. This project enabled users to conveniently exchange currency while\n      ensuring the utmost security.",
+      "images": [
+        "https://i.postimg.cc/hvkqthwX/Screenshot-from-2024-01-05-15-50-11.png",
+        "https://i.postimg.cc/wBpTk4w1/Screenshot-from-2024-01-05-15-57-23.png",
+        "https://i.postimg.cc/SKkk92K8/Screenshot-from-2024-01-05-15-52-55.png",
+        "https://i.postimg.cc/HxLmSqXk/Screenshot-from-2024-01-05-15-52-05.png"
+      ],
+      "url": "https://ha55a.exchange.com",
+      "technologies": [
+        {
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "MightyApps",
+      "title": "Back-End Developer",
+      "years": "6.2022 - present",
+      "mainTech": [
+        "Node Js/Nest js"
+      ],
+      "technologies": [
+        "REST API",
+        "Graphql",
+        "Postgresql",
+        "TypeScript",
+        "Socket IO",
+        "Docker"
+      ]
+    },
+    {
+      "company": "Ha55a Solutions",
+      "title": "Web Developer",
+      "years": "2022",
+      "mainTech": [
+        "Laravel"
+      ],
+      "technologies": [
+        "Payment Gateways",
+        "PHP",
+        "Laravel"
+      ]
+    },
+    {
+      "company": "Prokoders",
+      "title": "Web Developer",
+      "years": "2021 - 2022",
+      "mainTech": [
+        "Laravel",
+        "Html",
+        "Css"
+      ],
+      "technologies": [
+        "PHP",
+        "Laravel"
+      ]
+    }
+  ]
+}
